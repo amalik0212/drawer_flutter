@@ -1,8 +1,17 @@
 <h1 align="center">Drawer in Flutter</h1>
 
-Best ever drawer in flutter to make precious application...
+Best ever drawer in flutter to make precious application.
 
 ![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)
+
+This flutter app is made just to demonstrate how to we can make an animated drawer that looks beautiful and provides a good user experience as well 😍
+
+If liked the design and code the please give it a star 🌟 on Github.
+
+Also see tutorial and subscribe my channel for more updates 
+
+https://youtu.be/t6wh-G9w_lM
+
 
 KF Drawer 
 
