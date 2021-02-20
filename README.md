@@ -4,9 +4,7 @@
 
 Best ever drawer in flutter to make precious application...
 
-<p align="center">
-  ![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)
-  </p>
+<img align="left" width="100" height="100" src="![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)">
 
 
 ## Getting Started
