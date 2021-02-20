@@ -1,10 +1,12 @@
 <p align="center">
-  <b>drawer_flutter</b>
+  <h1>drawer_flutter</h1>
   </p>
 
 Best ever drawer in flutter to make precious application...
 
-![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)
+<p align="center">
+  ![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)
+  </p>
 
 
 ## Getting Started
