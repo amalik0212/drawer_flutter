@@ -1,32 +1,38 @@
 <h1 align="center">Drawer in Flutter</h1>
 
-Best ever drawer in flutter to make precious application.
+Best ever drawer in flutter to make precious application. This flutter app is made just to demonstrate how to we can make an animated drawer that looks beautiful and provides a good user experience as well ❤
 
+> This idea I had in mind for a long time and I finally made it,now here it is. Enjoy 😍
+
+## App Design 
 ![drawer](https://user-images.githubusercontent.com/36697784/108592442-b50d5700-738f-11eb-82d2-ec24a8a0026a.png)
 
-This flutter app is made just to demonstrate how to we can make an animated drawer that looks beautiful and provides a good user experience as well 😍
 
-If liked the design and code the please give it a star 🌟 on Github.
+If you liked the design and code then please give it a star 🌟 
 
+## Youtube Tutorial
 Also see tutorial and subscribe my channel for more updates 
 
 https://youtu.be/t6wh-G9w_lM
 
+## Author 
+- [Facebook](https://www.facebook.com/AsadMalikOfficial1/)
+- [Twitter](https://twitter.com/Its__AsadMalik)
+- [Youtube](https://www.youtube.com/channel/UCURSHhwwry8ur4-7zxN_Row)
+- [Instagram](https://www.instagram.com/Its__AsadMalik)
 
-#KFDrawer 
+## License 
 
-## Getting Started
+```
+AK License
 
-This project is a starting point for a Flutter application.
+Copyright (c) 2021 ᴀ ꜱ ᴀ ᴅ ᴍ ᴀ ʟ ɪ ᴋ
 
-A few resources to get you started if this is your first Flutter project:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-#Asad Malik
-#ItsAsadMalik
+```
